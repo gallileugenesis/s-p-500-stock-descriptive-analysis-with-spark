@@ -37,11 +37,7 @@ Feel free to use this notebook as a reference for analyzing S&P 500 stock data o
 
 ## Acknowledgments
 
-- The S&P 500 stock data used in this analysis was sourced from [source-name] and is provided for educational purposes.
+- The S&P 500 stock data used in this analysis was sourced from [S&P 500 stock data](https://www.kaggle.com/datasets/camnugent/sandp500) and is provided for educational purposes.
 - Special thanks to the open-source community for creating and maintaining the libraries and tools used in this analysis.
 
 ---
-
-**Note**: Replace `[source-name]` with the appropriate source or data provider.
-
-Please customize this README to suit your specific project and provide additional details, explanations, or instructions as needed. You can also add a table of contents, badges, or other elements to enhance the documentation of your project.
