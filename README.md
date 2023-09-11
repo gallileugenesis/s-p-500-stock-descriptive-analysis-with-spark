@@ -14,26 +14,7 @@ In this notebook, we explore the following aspects of the S&P 500 stock data:
 
 - **Market-Wide Analysis**: We analyze the entire dataset to determine the frequency of days where closing prices are higher than opening prices, the most traded stock, the least traded stock, and more.
 
-## Prerequisites
 
-Before running the notebook, make sure you have the following prerequisites:
-
-- Python
-- Jupyter Notebook
-- Apache Spark
-- Required Python libraries (e.g., Pandas, Matplotlib)
-
-## Getting Started
-
-To get started with this notebook, follow these steps:
-
-1. Clone this repository to your local machine.
-2. Install the required Python libraries using `pip install -r requirements.txt`.
-3. Open the Jupyter notebook and run each cell sequentially to perform the analysis.
-
-## Usage
-
-Feel free to use this notebook as a reference for analyzing S&P 500 stock data or as a template for your own financial data analysis projects.
 
 ## Acknowledgments
 
